@@ -1,6 +1,8 @@
 # Test-a-Perceptual-Phenomenon-project
 This is one of my projects for Data Analyst -Udacity nano degree-
 
+## introduction:
+
 **the dependent variable is the time it takes to name the ink colors in equally-sized lists**
 
 **the independent variable is incongruent words list or congruent words list**
