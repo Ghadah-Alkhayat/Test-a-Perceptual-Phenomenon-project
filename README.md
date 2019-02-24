@@ -2,6 +2,7 @@
 This is one of my projects for Data Analyst -Udacity nano degree-
 
 ## introduction:
+In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect.  I created a hypothesis regarding the outcome of an experimental task related to the Stroop Effect and computed some statistics describing the results. Finally, I interpreted the results in terms of my hypotheses.
 
 **the dependent variable is the time it takes to name the ink colors in equally-sized lists**
 
