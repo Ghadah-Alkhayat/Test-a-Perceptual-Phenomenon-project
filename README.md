@@ -16,4 +16,5 @@ H0= the population average naming time for congruent words equals or less than t
 H1= the population average naming time for incongruent words is greater than the population average naming time for congruent words
 
 ## used language 
-Python 
+Python: pandas, numpy, matplotlib.pyplot, and stats from scipy 
+ 
